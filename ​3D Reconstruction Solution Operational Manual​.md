@@ -7,17 +7,18 @@ This technology breaks the limitations of traditional two-dimensional observatio
 # 2. **STOmics 3D Reconstruction Solution Full Process and Feature Highlights**
 
 Traditional spatial transcriptomics technologies only provide two-dimensional information from tissue sections, unable to fully present the three-dimensional structure of biological samples and the spatial relationships between cells. Even with high-resolution gene expression localization, dedicated 3D reconstruction tools are still needed to address the following challenges:
-● Accurate spatial registration of consecutive tissue sections.
-● Integration and normalization of multi-slice data.
-● Three-dimensional visualization of cell types and gene expression patterns.
-● Reconstruction of cell trajectories and developmental processes across sections.
+
+- Accurate spatial registration of consecutive tissue sections.
+- Integration and normalization of multi-slice data.
+- Three-dimensional visualization of cell types and gene expression patterns.
+- Reconstruction of cell trajectories and developmental processes across sections.
 
 Stereo3D is a 3D reconstruction analysis platform developed by BGI-STOmics. It can integrate multi-slice spatial information to construct 3D gene expression atlases at the tissue and organ level, providing new perspectives for developmental biology, disease mechanism research, and tissue engineering.
 
 The core advantages of Stereo3D make it a powerful research tool:
 
-● **High Versatility:** Flexibly adapts to various scenarios including image-only, matrix-only, or combined image and matrix data, meeting the analysis needs of different data types.
-● **High Efficiency and Low Cost:** Significantly reduces labor costs and shortens the analysis cycle (The Drosophila Demo can produce results in less than ten minutes on a computer with 32GB RAM).
+- **High Versatility:** Flexibly adapts to various scenarios including image-only, matrix-only, or combined image and matrix data, meeting the analysis needs of different data types.
+- **High Efficiency and Low Cost:** Significantly reduces labor costs and shortens the analysis cycle (The Drosophila Demo can produce results in less than ten minutes on a computer with 32GB RAM).
 
 ![image](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/d8a4d81a-5e5c-4ebc-902b-0b88532cf79e.png)
 
