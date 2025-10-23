@@ -370,7 +370,6 @@ d. Output Result Display
   <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/d2d4ab6a-d3af-4e51-8bb0-4902ec4364c3.png" alt="image" width="25%" style="margin-left: 10px;">
 </div>
 
-<div align="center">
 Pairwise Registration Result Display
 
 <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/8f80c78c-f3f9-4e42-87c4-41c949739d9b.gif" alt="image3.gif" style="zoom:50%;" />
