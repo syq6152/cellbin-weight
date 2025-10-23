@@ -1,6 +1,6 @@
 # **3Dslicer Manual Modification of mesh/organ SOP_v1**
 
-## 1 **Basic Introduction**
+## 1.**Basic Introduction**
 
 For unsatisfactory mesh or organ results from the Stereo3D automated pipeline, 3D Slicer can be used for manual modification. (Since the model results do not affect other file results, there is no need to reconnect to the Stereo3D pipeline)
 
@@ -18,19 +18,19 @@ Segmentations: Volume transparency adjustment window;
 
 Surface Models: Model Maker is the window for model reconstruction.
 
-<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/r4mlQ5bxX8M9Zlxo/img/9a88f0e7-c674-474b-9046-ac5086484d77.png" alt="image.png" style="zoom:80%;" />
+<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/r4mlQ5bxX8M9Zlxo/img/9a88f0e7-c674-474b-9046-ac5086484d77.png" alt="image.png" style="zoom: 67%;" />
 
 Figure 1 Example of commonly used windows
 
 ● In the 3D view of 3D Slicer, click the "center the 3D" button in the upper left corner to reset the model position. Scrolling the mouse wheel zooms in/out the model (holding the left mouse button allows viewing the model from any angle; holding the right mouse button or mouse wheel adjusts the model size).
 
-## 2 **Tool Description and Preparation**
+## 2.**Tool Description and Preparation**
 
 | Tool      | Version        | Introduction                                                 | Download Link                | Purpose                 |
 | :-------- | :------------- | :----------------------------------------------------------- | :--------------------------- | :---------------------- |
 | 3D Slicer | v4.11.20210226 | Open-source medical image analysis software supporting 3D visualization, segmentation, registration of multimodal data, widely used in research and clinical settings. | https://download.slicer.org/ | ● Modify model contours |
 
-## 3 **Operation Steps**
+## 3.**Operation Steps**
 
 ### 3.1 **Import Data**
 
@@ -98,13 +98,13 @@ Figure 10 Example of segment editor window
 
 After selecting the correct Segmentation and Master volume, the manual tools become colored and adjustable, as shown in Figure 11;
 
-<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/YdgOkW800a43O4BX/img/299af816-07c0-4e00-9d70-42da1c9fe7a5.png" alt="image.png" style="zoom: 67%;" />
+<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/YdgOkW800a43O4BX/img/299af816-07c0-4e00-9d70-42da1c9fe7a5.png" alt="image.png" style="zoom: 25%;" />
 
 Figure 11 Introduction to the segment editor interface
 
 At this point, you can adjust the 3 views in the 3D view to check the cavities in 2D (Figure 12). The cavities are the parts that need adjustment;
 
-<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/YdgOkW800a43O4BX/img/02243474-4bf5-428b-a856-682e420ec05d.png" alt="image.png" style="zoom:67%;" />
+<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/YdgOkW800a43O4BX/img/02243474-4bf5-428b-a856-682e420ec05d.png" alt="image.png" style="zoom: 50%;" />
 
 Figure 12 Example of scrolling
 
@@ -116,11 +116,11 @@ If you find many "burr-like", unsmooth areas, you can use the Erase tool to remo
 
 Figure 13 Example of adjustment tools
 
-<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/YdgOkW800a43O4BX/img/3739d751-b1cc-4df4-8771-b65224992e83.png" alt="image.png" style="zoom:80%;" />
+<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/YdgOkW800a43O4BX/img/3739d751-b1cc-4df4-8771-b65224992e83.png" alt="image.png" style="zoom: 25%;" />
 
 Figure 14 Example of brush radius view
 
-<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/YdgOkW800a43O4BX/img/9168481e-af31-4108-9597-f6af8f1d64b3.png" alt="image.png" style="zoom: 50%;" />
+<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/YdgOkW800a43O4BX/img/9168481e-af31-4108-9597-f6af8f1d64b3.png" alt="image.png" style="zoom: 33%;" />
 
 Figure 15 Example after the brain region is filled cleanly
 
@@ -132,7 +132,7 @@ Switch to the Surface Models and Model Maker windows in sequence (Figure 16), se
 
 Figure 16 Example of switching to the model generation interface
 
-![image.png](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/YdgOkW800a43O4BX/img/50ea4809-07d3-4782-829d-14f09fd1da19.png)
+<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/YdgOkW800a43O4BX/img/50ea4809-07d3-4782-829d-14f09fd1da19.png" alt="image.png" style="zoom: 50%;" />
 
 Figure 17 Example of model formation parameter settings
 
@@ -140,6 +140,6 @@ Figure 17 Example of model formation parameter settings
 
 Press the shortcut key ctrl+S, select the model file generated in the previous step, and set the save format to .obj. Set the save path. If the operation is not completed in one session, you can select all files and click the "��" button in the upper left corner. This option will output a .mrb format file and store all files in the project, similar to a Photoshop psd file.
 
-![image.png](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/YdgOkW800a43O4BX/img/55085ecb-00c1-405c-b7a3-2f4df3067011.png)
+<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/YdgOkW800a43O4BX/img/55085ecb-00c1-405c-b7a3-2f4df3067011.png" alt="image.png" style="zoom:67%;" />
 
 Figure 18 Example of save format output

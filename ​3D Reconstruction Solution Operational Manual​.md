@@ -190,7 +190,7 @@ Note: The OBJ file save path cannot contain Chinese characters.
 
 ● **Mesh and Organ Visualization:** Drag the files from the `07.organ` folder into 3D Slicer to display them together with the mesh.
 
-<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/afd8a515-930a-4049-95d3-78a46f3fc827.png" alt="image.png" style="zoom:80%;" /> 
+<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/afd8a515-930a-4049-95d3-78a46f3fc827.png" alt="image.png" style="zoom: 80%;" /> 
 
 <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/47a72e4e-59c3-4c56-91b5-0e8a785ab271.png" alt="image.png" style="zoom:80%;" />
 
@@ -206,7 +206,7 @@ Note: The OBJ file save path cannot contain Chinese characters.
 
 ● **Show/Hide OBJ Parts:** Click the eye icon. When the eye is closed, the part is hidden; when open, it is displayed.
 
-![image.png](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/b7658629-3f34-4df9-baef-9d10a37a811b.png) 
+<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/b7658629-3f34-4df9-baef-9d10a37a811b.png" alt="image.png" style="zoom: 80%;" /> 
 
 ### 2.3.2 **Spateo**
 

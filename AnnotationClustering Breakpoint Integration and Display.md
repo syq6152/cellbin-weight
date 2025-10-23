@@ -129,7 +129,7 @@ cd  D:\code\3d
 5. Click "**Run this Cell and Advance**" to run the code. Click once to run one cell. The red boxes in the image below from left to right are: **Run this Cell and Advance**, **Interrupt the Kernel**, **Restart the Kernel**, **Restart the Kernel and Run All Cells**![image.png](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/J9LnW6jwaBM7VlvD/img/2a597706-53c0-4288-882a-49f09d9ff640.png)
 6. Display effect of the fruit fly demo data
 
-<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/J9LnW6jwaBM7VlvD/img/a9b5c715-0781-4bf0-9d65-1054dfd556db.png" alt="image.png" width="50%"><img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/J9LnW6jwaBM7VlvD/img/0c2649d0-867d-4f5c-838d-7014504c4b7f.png" alt="image.png" style="zoom:50%;" />
+<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/J9LnW6jwaBM7VlvD/img/a9b5c715-0781-4bf0-9d65-1054dfd556db.png" alt="image.png" style="zoom:50%;" /><img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/J9LnW6jwaBM7VlvD/img/0c2649d0-867d-4f5c-838d-7014504c4b7f.png" alt="image.png" style="zoom:50%;" />
 
 
 
