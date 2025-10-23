@@ -137,37 +137,53 @@ Note: When using Fiji software to view, importing into TrakEM2 displays them sor
 
 ● **Import Folder:** Drag the `01.align_mask` folder into the "Canvas" (the largest image display area). In the "Import directory" window, click "OK". In the "Slice separation" window, check "Lock stack".
 
-<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/3b9a3824-473c-4efa-ab47-086582b7776b.png" alt="image.png" style="zoom: 33%;" /> 
+<div align="center">
+  <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/3b9a3824-473c-4efa-ab47-086582b7776b.png" alt="image.png" width="65%">
+</div> 
 
-![image](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/0e9a2c8c-86e2-4d68-af92-8c2c3e3d9c8f.png) 
+<div align="center">
+  <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/0e9a2c8c-86e2-4d68-af92-8c2c3e3d9c8f.png" width="50%">
+</div> 
 
-<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/5169b0e1-1dc0-4bde-bf98-1737249ea6bd.png" alt="image" style="zoom:67%;" /> 
+<div align="center">
+  <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/5169b0e1-1dc0-4bde-bf98-1737249ea6bd.png" width="50%">
+</div> 
 
 
 
 ● **Adjust Image Position:** To adjust the display position of the image in the "Canvas", first place the mouse on the "Preview thumbnail", hold down "Ctrl", and scroll the mouse wheel to adjust the display position of the image in the "Canvas". You can also click the red box of the "Preview thumbnail" and move it up, down, left, or right until the image display is suitable.
 
-<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/ecb287a8-945a-4780-9373-6fad0962de57.png" alt="image.png" style="zoom: 33%;" />
+<div align="center">
+  <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/ecb287a8-945a-4780-9373-6fad0962de57.png" width="60%">
+</div> 
 
 ● **Unbind Layers:** In the "Patches" window, unbind the layers (so that the reference image can subsequently undergo positional transformations).
 
-![image](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/68889406-2646-462f-a27c-180d84ddb7df.png)
+<div align="center">
+  <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/68889406-2646-462f-a27c-180d84ddb7df.png" width="50%">
+</div> 
 
 ● **Switch to "Layers" Window:** In the "Layers" window, the number of indicator bars on the left equals the number of files in the imported folder. Scrolling the mouse wheel will cause the indicator bars to turn green alternately, and the "Canvas" will display different images in turn.
 
-<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/08b8781c-a459-4194-87cc-9df6b87f508a.png?x-oss-process=image/crop,x_0,y_0,w_1217,h_817/ignore-error,1" alt="image.png" style="zoom: 50%;" />
+<div align="center">
+  <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/08b8781c-a459-4194-87cc-9df6b87f508a.png?x-oss-process=image/crop,x_0,y_0,w_1217,h_817/ignore-error,1" alt="image.png" width="60%">
+</div> 
 
 ● **Image Selection:** The indicator bar for the reference image is red, and the indicator bar for the image to be adjusted is green. Select the indicator bar of the image to be adjusted (it turns green when selected). Press the "Shift" key and click on other indicator bars in the left column; the reference image's indicator bar will then turn red.
 
-<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/0e3867d4-4945-42ab-9f89-b79f43df30d2.png" alt="image.png" style="zoom: 50%;" />
+<div align="center">
+  <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/0e3867d4-4945-42ab-9f89-b79f43df30d2.png" width="60%">
+</div> 
 
 ● **View Registration Results:** Scroll the mouse wheel to view the registration between consecutive slices.
 
-<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/d43c124d-259b-40b8-ae72-db16f97403a8.png" alt="image.png" style="zoom: 33%;" />
+<div align="center">
+  <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/d43c124d-259b-40b8-ae72-db16f97403a8.png" width="60%">
+</div> 
 
 ##### 2.3.1.4.2 **H5AD Result Visualization**
 
-The output result `06.color` is an H5AD file with unified coordinates and labels. Use the small tool `stereo3d_viewer.ipynb` in Stereo3D for visualization. For specific operations, please refer to [《Annotation/Clustering Breakpoint Integration and Display》](https://github.com/syq6152/cellbin-weight/blob/main/AnnotationClustering%20Breakpoint%20Integration%20and%20Display.md) **--- Use Case: Annotation/Clustering Effect Display**
+The output result `06.color` is an H5AD file with unified coordinates and labels. Use the small tool `stereo3d_viewer.ipynb` in Stereo3D for visualization. For specific operations, please refer to [《Annotation/Clustering Breakpoint Integration and Display》](https://github.com/STOmics/stereo3d/blob/dev/docs/AnnotationClustering%20Breakpoint%20Integration%20and%20Display.md) **--- Use Case: Annotation/Clustering Effect Display**
 
 ##### 2.3.1.4.3 **Mesh/Organ Visualization**
 
@@ -185,27 +201,37 @@ Note: The OBJ file save path cannot contain Chinese characters.
 
 ● **View Results:** In the 3D view, click the "center the 3D" button in the upper left corner to reset the model position. Scrolling the mouse wheel zooms in/out the model. (Hold the left mouse button to view the model from any angle; hold the right mouse button or mouse wheel to adjust the model size.)
 
-<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/a67650b5-cc97-45ba-ba68-534b8a820aa6.png" alt="image.png" style="zoom: 80%;" />
+<div align="center">
+  <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/a67650b5-cc97-45ba-ba68-534b8a820aa6.png" width="60%">
+</div> 
 
 ● **Mesh and Organ Visualization:** Drag the files from the `07.organ` folder into 3D Slicer to display them together with the mesh.
 
-<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/afd8a515-930a-4049-95d3-78a46f3fc827.png" alt="image.png" style="zoom: 80%;" /> 
+<div align="center">
+  <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/afd8a515-930a-4049-95d3-78a46f3fc827.png" width="60%">
+</div> 
 
-<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/47a72e4e-59c3-4c56-91b5-0e8a785ab271.png" alt="image.png" style="zoom:80%;" />
+ <div align="center">
+  <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/47a72e4e-59c3-4c56-91b5-0e8a785ab271.png" width="60%">
+</div> 
 
 
 
 ● **Adjust Model Display Color:** In the "Models" module, double-click the color window to bring up the "Slicer" window, select a color to change the display color.
 
+ <div align="center">
+  <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/9a662521-0611-45ea-99be-4b15cd1d7e5a.png" width="60%">
+</div>  
 
-
-<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/9a662521-0611-45ea-99be-4b15cd1d7e5a.png" alt="image.png" style="zoom: 50%;" /> 
-
-<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/bbcb91ab-f3de-4948-93c5-ec158e36b784.png?x-oss-process=image/crop,x_1544,y_51,w_1007,h_689/ignore-error,1" alt="image.png" style="zoom: 50%;" /> 
+ <div align="center">
+  <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/bbcb91ab-f3de-4948-93c5-ec158e36b784.png?x-oss-process=image/crop,x_1544,y_51,w_1007,h_689/ignore-error,1" alt="image.png" width="60%">
+</div>   
 
 ● **Show/Hide OBJ Parts:** Click the eye icon. When the eye is closed, the part is hidden; when open, it is displayed.
 
-<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/b7658629-3f34-4df9-baef-9d10a37a811b.png" alt="image.png" style="zoom: 80%;" /> 
+ <div align="center">
+  <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/b7658629-3f34-4df9-baef-9d10a37a811b.png" width="60%">
+</div>   
 
 ### 2.3.2 **Spateo**
 
@@ -239,9 +265,7 @@ pip install scanpy
 pip install spateo-release==1.1.1
 ```
 
-
-
-Spateo-viewer
+   Spateo-viewer
 
 ```
 # Clone the repository and navigate to the directory
@@ -312,13 +336,13 @@ If you are not satisfied with the results of the Stereo3D automated pipeline, yo
 
 #### 2.4.0.1 **Manual Registration**
 
-If the registration result in the Stereo3D automated pipeline is incorrect, you can perform manual registration and then feed it back into Stereo3D to output new automated pipeline results. For specific operations, please refer to this document: [《Manual Registration SOP_v1》](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyg6oqO1FvX5EgreJkyEqBQm?corpId=dingdaeb6f85c48618b9f2c783f7214b6d69&iframeQuery=utm_source%3Dportal%26utm_medium%3Dportal_new_tab_open&rnd=0.6391902675229961&sideCollapsed=true&utm_scene=team_space)
+If the registration result in the Stereo3D automated pipeline is incorrect, you can perform manual registration and then feed it back into Stereo3D to output new automated pipeline results. For specific operations, please refer to this document: [《Manual Registration SOP_v1》](https://github.com/STOmics/stereo3d/blob/dev/docs/Manual%20Registration%20SOP_v1.md)
 
 #### 2.4.0.2 **Manual Mesh Modification**
 
 If you are not satisfied with the mesh or organ results from the Stereo3D automated pipeline, you can use 3D Slicer for manual modification. (Since the model results do not affect other file results, there is no need to feed them back into the Stereo3D pipeline).
 
-[《3D Slicer Manual Mesh/Organ Modification SOP_v1》](https://alidocs.dingtalk.com/i/nodes/Gl6Pm2Db8D30K1wofqZaoawzJxLq0Ee4?doc_type=wiki_doc)
+[《3D Slicer Manual Mesh/Organ Modification SOP_v1》](https://github.com/STOmics/stereo3d/blob/dev/docs/3Dslicer%20Manual%20Modification%20of%20meshorgan%20SOP_v1.md)
 
 # 3 **Application Case Introduction**
 
@@ -370,19 +394,19 @@ d. Output Result Display
   <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/d2d4ab6a-d3af-4e51-8bb0-4902ec4364c3.png" alt="image" width="20%" style="margin-left: 10px;">
 </div>
 
-Pairwise Registration Result Display
-
-<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/8f80c78c-f3f9-4e42-87c4-41c949739d9b.gif" alt="image3.gif" style="zoom:50%;" />
+<div align="center">Pairwise Registration Result Display</div>
 
 <div align="center">
   <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/8f80c78c-f3f9-4e42-87c4-41c949739d9b.gif" alt="image3.gif" width="30%">
 </div>
 
-Model Result Display
+<div align="center">Model Result Display</div>
 
-<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/3dba71ba-c2da-4cca-ba41-41e32bc05a59.gif" alt="drosophila_melanogaster.gif" style="zoom: 50%;" />
+<div align="center">
+  <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/3dba71ba-c2da-4cca-ba41-41e32bc05a59.gif" alt="drosophila_melanogaster.gif" width="70%">
+</div>
 
-Post-Clustering Effect Display
+<div align="center">Post-Clustering Effect Display</div>
 
 ## 3.2 **Scenario Introduction**
 
@@ -508,15 +532,15 @@ python saw_hub.py \
 
 Due to small tissue size, multiple sections are mounted on one spatial-temporal chip, or multiple tissues are embedded in one block and then sectioned and mounted, resulting in multiple tissues on one chip. For such data, the experimental side needs xxxxxx (to be added later); on the data processing side, it needs to be split into individual tissues before being input into the Stereo3D pipeline for reconstruction. For data processing, there are manual splitting solutions and automated splitting solutions.
 
-a. Manual Splitting Solution primarily uses the tools StereoMap and SAW. For specific operations, please refer to [《Manual Splitting Solution for Multiple Tissues on One Chip》](https://alidocs.dingtalk.com/i/nodes/P7QG4Yx2Jp7moAR1H4Ar1DeeV9dEq3XD).
+a. Manual Splitting Solution primarily uses the tools StereoMap and SAW. For specific operations, please refer to [《Multiple Manual Splitting Solution for One Chip》](https://github.com/STOmics/stereo3d/blob/dev/docs/Multiple%20Manual%20Splitting%20Solution%20for%20One%20Chip.md).
 
-b. Automated Splitting Solution uses the tool `multi_tissue.py` within Stereo3D. For specific operations, please refer to [《Automated Splitting Solution for Multiple Tissues on One Chip》](https://alidocs.dingtalk.com/i/nodes/AR4GpnMqJzM3oe71CKwbxXNlVKe0xjE3).
+b. Automated Splitting Solution uses the tool `multi_tissue.py` within Stereo3D. For specific operations, please refer to [《Multiple Automatic Splitting Solution for One Chip》](https://github.com/STOmics/stereo3d/blob/dev/docs/Multiple%20Automatic%20Splitting%20Solution%20for%20One%20Chip.md).
 
 ### 3.3.3 **Annotation/Clustering Result Breakpoint Integration Function**
 
 `anno_adata_support.py` is a tool specifically designed for spatial transcriptomics data analysis, used to integrate already annotated/clustered H5AD format data (Scanpy standard) as a breakpoint into the Stereo3D analysis pipeline. This tool seamlessly integrates external annotation data based on the original Stereo3D analysis results, generating new Stereo3D results while retaining all intermediate results from the original analysis pipeline.
 
-For specific operations, please refer to [《Annotation/Clustering Breakpoint Integration and Display》](https://alidocs.dingtalk.com/i/nodes/lyQod3RxJK3djBrof2e4bK7dJkb4Mw9r) --- **Use Case: Annotation/Clustering Breakpoint Integration**
+For specific operations, please refer to [《Annotation/Clustering Breakpoint Integration and Display》](https://github.com/STOmics/stereo3d/blob/dev/docs/AnnotationClustering%20Breakpoint%20Integration%20and%20Display.md) --- **Use Case: Annotation/Clustering Breakpoint Integration**
 
 ### 3.3.4 **Adding Images Without Matrix for Reconstruction**
 
