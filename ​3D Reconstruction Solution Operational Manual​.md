@@ -168,7 +168,7 @@ Note: When using Fiji software to view, importing into TrakEM2 displays them sor
 
 ##### 2.3.1.4.2 **H5AD Result Visualization**
 
-The output result `06.color` is an H5AD file with unified coordinates and labels. Use the small tool `stereo3d_viewer.ipynb` in Stereo3D for visualization. For specific operations, please refer to [《Annotation/Clustering Breakpoint Integration and Display》](https://alidocs.dingtalk.com/i/nodes/lyQod3RxJK3djBrof2e4bK7dJkb4Mw9r) **--- Use Case: Annotation/Clustering Effect Display**
+The output result `06.color` is an H5AD file with unified coordinates and labels. Use the small tool `stereo3d_viewer.ipynb` in Stereo3D for visualization. For specific operations, please refer to [《Annotation/Clustering Breakpoint Integration and Display》](https://github.com/syq6152/cellbin-weight/blob/main/AnnotationClustering%20Breakpoint%20Integration%20and%20Display.md) **--- Use Case: Annotation/Clustering Effect Display**
 
 ##### 2.3.1.4.3 **Mesh/Organ Visualization**
 
