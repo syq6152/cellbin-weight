@@ -7,11 +7,10 @@ This technology breaks the limitations of traditional two-dimensional observatio
 # 2. **STOmics 3D Reconstruction Solution Full Process and Feature Highlights**
 
 Traditional spatial transcriptomics technologies only provide two-dimensional information from tissue sections, unable to fully present the three-dimensional structure of biological samples and the spatial relationships between cells. Even with high-resolution gene expression localization, dedicated 3D reconstruction tools are still needed to address the following challenges:
-
-● Accurate spatial registration of consecutive tissue sections
-● Integration and normalization of multi-slice data
-● Three-dimensional visualization of cell types and gene expression patterns
-● Reconstruction of cell trajectories and developmental processes across sections
+● Accurate spatial registration of consecutive tissue sections.
+● Integration and normalization of multi-slice data.
+● Three-dimensional visualization of cell types and gene expression patterns.
+● Reconstruction of cell trajectories and developmental processes across sections.
 
 Stereo3D is a 3D reconstruction analysis platform developed by BGI-STOmics. It can integrate multi-slice spatial information to construct 3D gene expression atlases at the tissue and organ level, providing new perspectives for developmental biology, disease mechanism research, and tissue engineering.
 
@@ -366,10 +365,12 @@ c. Log Display
 
 d. Output Result Display
 
-<img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/06219592-7a05-41de-a11f-fcaa2674e456.png" alt="image" style="zoom: 55%;" /><img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/d2d4ab6a-d3af-4e51-8bb0-4902ec4364c3.png" alt="image" style="zoom: 50%;" /> 
+<div align="center">
+  <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/06219592-7a05-41de-a11f-fcaa2674e456.png" alt="image" width="25%" style="margin-right: 10px;">
+  <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/d2d4ab6a-d3af-4e51-8bb0-4902ec4364c3.png" alt="image" width="25%" style="margin-left: 10px;">
+</div>
 
-
-
+<div align="center">
 Pairwise Registration Result Display
 
 <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/8f80c78c-f3f9-4e42-87c4-41c949739d9b.gif" alt="image3.gif" style="zoom:50%;" />
