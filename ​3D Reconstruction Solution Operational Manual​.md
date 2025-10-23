@@ -404,7 +404,7 @@ d. Output Result Display
 <div align="center">Model Result Display</div>
 
 <div align="center">
-  <img src="https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/jP2lRYKDKaYJ6O8g/img/3dba71ba-c2da-4cca-ba41-41e32bc05a59.gif" alt="drosophila_melanogaster.gif" width="70%">
+  <img src="https://raw.githubusercontent.com/STOmics/stereo3d/dev/docs/drosophila_melanogaster.gif" alt="drosophila_melanogaster.gif" width="70%">
 </div>
 
 <div align="center">Post-Clustering Effect Display</div>
